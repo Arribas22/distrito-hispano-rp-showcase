@@ -1,0 +1,10 @@
+﻿# Arma Reforger / Enfusion showcase
+resourceDatabase.rdb
+*.rdb
+*.edds
+*.png
+*.jpg
+*.meta
+*.et
+*.conf
+log/
